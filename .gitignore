@@ -1,0 +1,9 @@
+node_modules/
+npm-debug.log
+coverage/
+.env
+.idea
+test.js
+.DS_Store
+old
+.env.my.defaults

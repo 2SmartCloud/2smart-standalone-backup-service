@@ -1,0 +1,14 @@
+{
+    "appPort": "{{APP_PORT}}",
+    "backupsDirPath": "{{BACKUPS_DIR_PATH}}",
+    "backupServiceName": "{{BACKUP_SERVICE_NAME}}",
+    "restoreTriesAmount": "{{RESTORE_TRIES_AMOUNT}}",
+    "tempBackupsDirPath": "{{TEMP_BACKUPS_DIR_PATH}}",
+    "backupsMemoryLimit": "{{BACKUPS_MEMORY_LIMIT}}",
+    "rootDir2smartPath": "{{ROOT_DIR_2SMART}}",
+    "mqttConnectionOptions": {
+        "uri"     : "{{MQTT_URI}}",
+        "username": "{{MQTT_USER}}",
+        "password": "{{MQTT_PASSWORD}}"
+    }
+}
