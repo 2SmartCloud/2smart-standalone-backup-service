@@ -13,7 +13,7 @@
         "dot-prop": "^6.0.1",
         "express": "^4.17.1",
         "fs-extra": "^9.0.1",
-        "homie-sdk": "github:2SmartCloud/2smart-standalone-homie-sdk",
+        "homie-sdk": "^1.0.0",
         "json-pointer": "^0.6.1",
         "moment": "^2.29.1",
         "mqtt": "^4.2.6",
